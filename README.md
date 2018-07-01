@@ -29,3 +29,16 @@ Third lecture:
 Fourth lecture:
 --------------
 **topics**: DeepDream, filter visualization, selective search, neural embedding, guided backprop
+
+Fifth lecture:
+--------------
+**topics**: reccurent nets, vanilla rnn, rnn backprop, truncated backprop, lstm, gru, CTC loss
+
+Sixth lecture:
+--------------
+**topics**: classic AE, denoising, latent space, VAE, vae loss, GAN, SRGAN, LSGAN
+
+Seventh lecture:
+--------------
+**topics**: CTC loss, Deep Speech, hard attention, soft attention, seq2seq
+
