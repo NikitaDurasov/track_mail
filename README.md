@@ -14,10 +14,14 @@ Dependencies:
 * tqdm (v. 4.19.7+)
 
 ### First lecture
-
+--------------
 **topics**: machine learning basics, autograd, linear regression, loss functions, SGD, perceptron and backprop. 
 
 
 ### Second lecture
-
+--------------
 **topics**: momentum, adagrad, RMSProp, activation functions, ReLU, Dropout, BatchNorm, Convolutions
+
+### Third lecture
+--------------
+**topics**: alexnet, dilation, VGG, GooLeNet, Inception, ResNet, Bottleneck, segmentation, U-Net
